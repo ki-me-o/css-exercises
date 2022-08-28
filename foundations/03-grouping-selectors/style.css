@@ -1,0 +1,14 @@
+.flashy {
+    background-color: black;
+    color: white;
+}
+
+.classy {
+    background-color: yellow;
+}
+
+.flashy,
+.classy {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
